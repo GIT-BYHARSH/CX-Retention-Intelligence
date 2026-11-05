@@ -1,0 +1,14 @@
+pandas
+numpy
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+joblib
+requests
+streamlit
+openpyxl
