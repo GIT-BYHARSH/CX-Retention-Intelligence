@@ -1,0 +1,41 @@
+order_id,review_score,is_late,category,comment_text,keyword_theme,llm_theme,human_theme,llm_ok,kw_ok
+cb5a90448282b7b65850b10544dbb22a,1,False,office_furniture," Infelizmente recebi a cadeira no período correto mas veio faltando uma peça , já envie e-mail para a loja e até o momento não recebi a resposta. ( já se passaram 24h). ",never_arrived,customer_service,damaged_or_wrong,False,False
+e2f1a9fca16cf7780e6b22a78fb85479,1,False,office_furniture,"Estou insatisfeito, pois ainda não recebi meu produto e também a central da lannister informa que esta sempre lotada de ligações e que não pode atender.",never_arrived,customer_service,never_arrived,False,True
+d1594d3b636b86cf4ce22e2ca650a55c,1,True,bed_bath_table,"Não parece um tapete, parece um jogo americano de tão pequeno e fino ??",other,quality,quality,True,False
+37ddd5dd20d5259555dc5c1801039b7d,5,False,fashio_female_clothing,Chegaram bem rapidinho e a qualidade muito boa! Parabéns!,quality,praise,praise,True,False
+22b7dd604ff5725df72b4245777f87f7,5,False,health_beauty,"Entrega no prazo, embalagem perfeita. Só elogios. ",other,praise,praise,True,False
+21f1d47d575b225fabd423c4282b73f4,1,False,office_furniture,A cadeira veio com problema no assento,other,damaged_or_wrong,damaged_or_wrong,True,False
+ebe03df05336a64593a9d06ed6b09db5,2,False,computers_accessories,veio toner preto no lugar do amarelo,other,damaged_or_wrong,damaged_or_wrong,True,False
+c99bf9bf2c26094ff4786e6bf919d14c,1,False,office_furniture,"Queria um telefone pra contato, comprei dois cofres só chegou um e sem nota fiscal ",other,damaged_or_wrong,damaged_or_wrong,True,False
+1baafdbda29613148a2517059b996b95,1,False,office_furniture,COMPREI 6 CADEIRAS E SÓ RECEBI 1 E AINDA VEIO NA COR ERRADA! ENTREI EM CONTATO VÁRIAS VEZES E NÃO ME DERAM NENHUMA ATENÇÃO! TOTAL DESCASO COM O CLIENTE.,other,customer_service,damaged_or_wrong,False,False
+80dfedb6d17bf23539beeef3c768f4d7,2,False,small_appliances,"comprei a maquina com 2 bastidores extras, entretanto veio faltando o bastidor de bolso, fiz diversos contatos com a loja e email porem sem retorno. Aguardo contato e resolução do problema",damaged_or_wrong,customer_service,damaged_or_wrong,False,True
+45a48df7b18435ce6e3c03ba6c6c2386,2,False,bed_bath_table,"Só o tecido é muito fino ,mais muito linda minhas meninas amaram,entrega antes do prazo muito bom! ",praise,praise,quality,False,False
+ab589d1a6095c7f435a62f503146e1cf,5,False,health_beauty,Tudo ok.,other,praise,praise,True,False
+85df9618973ec5807b30a864e352599f,5,False,bed_bath_table,"Produto foi entregue em tempo ágil, super recomendo ....",praise,praise,praise,True,True
+9e8d7ab8137bcd3cfeac577dddf35592,1,True,furniture_decor,"A empresa não acompanha o rastreamento, desde o dia 1 de março encontra-se sem atualiazação na agência dos correios de Cajamar-SP, e somente o remetente pode abrir uma reclamação junto aos correios.",other,customer_service,late_or_slow,False,False
+e54c837c3ceab3a51f0afec240e9799a,1,False,fashion_underwear_beach,"Loja de confiança, entrega dentro do prazo.",praise,praise,praise,True,True
+63154c299d1199262f60527437e156a5,2,False,office_furniture,O PRODUTO FOI ENTREGUE POREM FALTANDO PARA AS 2 CADEIRAS A PEÇA FLANGE ASSIM IMPOSSIBILITANDO A MONTAGEM DO MESMO.,damaged_or_wrong,assembly,assembly,True,False
+ec002084195fcce7185eab399b71ee73,1,False,sports_leisure,Extremamente insatisfeito com a compra! Caixa chegou violada com uma fita adesiva! Produto faltando pecas! E com marcas de usao! Experiência desagradavel! Infelizmente não compro mais nada com vocês!,damaged_or_wrong,damaged_or_wrong,damaged_or_wrong,True,True
+1a6b9a764637acbc39e1624a2211f548,1,True,computers_accessories,"Comprei 6 cartuchos, recebi apenas 4 unidades após o prazo de entrega, e ate hoje estou tentando entrar em contato para uma solução, mas sem sucesso. ",late_or_slow,damaged_or_wrong,damaged_or_wrong,True,False
+f877f47f62455df158e69f767fe6b9cf,5,False,telephony,"Entrega rápida, produto bom.",other,praise,praise,True,False
+32c5abfa9eb2480a7162f1ac2425680d,1,False,baby,A cor do produto que veio é totalmente diferente do da foto. ,damaged_or_wrong,quality,quality,True,False
+6a6d3cd77ef3a533edef69dccf6c0de3,1,False,office_furniture,"Comprei 3 cadeiras, todas vieram faltando peças. nao consegui solicitar troca pelo site, dá erro de conexão. Também não consegui por telefone. soliciitei por e-mail e nao recebi retorno Insatisfeito ",never_arrived,customer_service,damaged_or_wrong,False,False
+7ef3a4439f550deadd7bc3891b2f6242,5,False,bed_bath_table,Gostei entregou o produto certo e até antes do prazo estipulado. muito bom!!,praise,praise,praise,True,True
+08c01d43e93f5c485f48758550d41eb9,1,False,furniture_decor,Estou aguardando a entrega do produto.,other,late_or_slow,never_arrived,False,False
+b6eaedebebeb4676e1afd5b94b048d52,1,False,cool_stuff,Estou indignada com o descaso efetuei a compra dia 01/06/2017 e ate hoje não recebe meu produto ninguém mim ligou para mim esclarecer ou me da satisfação uma vez que ja paguei a 1 parc e vou pagar 2.,other,never_arrived,never_arrived,True,False
+5f9023a84ef9e64c87bc7c1970da5680,5,False,small_appliances,Recebi as mercados conforme exposto no site e chegou bem antes do prazo estipulado. Recomendo! ,praise,praise,praise,True,True
+e897baf305827e390802ae23c1109c78,2,False,electronics,"Demora na entrega.. O prazo da entrega foi aumentado após a confirmação da compra... Insatisfeito, e o produto veio diferente também. ..",late_or_slow,damaged_or_wrong,damaged_or_wrong,True,False
+32480f4d114e9973ef4fbd57631274f9,5,False,electronics,Ótimo produto! Recomendo!,praise,praise,praise,True,True
+b70a20de4d773c7d77843695098779d4,1,False,office_furniture,"Eu cancelei a compra, estou esperando a devolução do valor conforme o e-mail recebido.",other,customer_service,customer_service,True,False
+97b91c745aa3a478f4e00df4c15069e6,5,False,fashion_bags_accessories,O produto chegou bem rapidinho e é exatamente como anunciado,other,praise,praise,True,False
+35bc36d5460374d96175822d91d79cd1,2,True,auto,"O produto esta em atraso, não muda o status desde o dia 18/03, e era para ter chegado no dia 26/03 hoje já é dia 30/03 e ainda não chegou,gostaria de uma posição. ",never_arrived,late_or_slow,late_or_slow,True,False
+c03748652e7cdfeb73bf4aa3b41da0dc,2,False,toys,as prateleiras não recebi,never_arrived,never_arrived,never_arrived,True,True
+f8337e09908840a3536231a3a198b43a,5,False,baby,"Produto chegou bem antes do prazo. Não tive problemas. Estava em dúvida com relação a qualidade do móvel, mas não tenho o que reclamar. Recomendo.",quality,praise,praise,True,False
+ca155f4ccd7bb9e5cfac4beb82c52881,1,False,health_beauty,produto é diferente do mostrado na foto deve ser qualidade inferior e não serve pra nada não removeu nenhum cravo,damaged_or_wrong,quality,quality,True,False
+b022e6618cd7a7bd4a981f0e7951922c,1,False,watches_gifts,"Boa noite, o produto veio com defeito, em uma hora de uso percebi que um dos botões não estava mais no relógio (soltou), muito frágil, led AM não esta acendendo, os números 7 e 8 acendem juntos",damaged_or_wrong,quality,damaged_or_wrong,False,True
+b3a70e33f30ddbe86271d2a7e75b62e2,2,False,sports_leisure,Produtos de baixa qualidade.,quality,quality,quality,True,True
+a799d21b017742b6c8cac13998fd6ee2,2,True,sports_leisure,"Não gostei da entrega, pois paguei o frete que não foi barato e os correios não entregou na minha casa tive que ir buscar no correios do centro da minha cidade, serviço de entrega muito Ruin!",other,late_or_slow,late_or_slow,True,False
+e3027423471c37ce2c9097bdec11b19d,1,True,housewares,"A previsão de entrega do emu produto era 23/03, hoje é dia 29 e nada. Cobrei resposta mas não recebi.",never_arrived,late_or_slow,late_or_slow,True,False
+7e3092871b13383e2bf040db363a846b,1,False,cool_stuff,"Na caixa é no anúncio está dando a entender que são duas caixas, se soubesse que era só uma compraria de outro modelo!",other,quality,quality,True,False
+ea5f30a182b04fd1296273605983b9a4,1,False,health_beauty,Comprei duas faixas e somente enviaram uma.,other,damaged_or_wrong,damaged_or_wrong,True,False
+4b33e7ab86ba5f28513f84e4d75c79fe,5,False,stationery,Recomendo!,praise,praise,praise,True,True
